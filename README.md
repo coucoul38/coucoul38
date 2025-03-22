@@ -1,2 +1,1 @@
-Hi, I'm Coucoul38, a student in game programming.<br>
-I'm trying to make mods rn
+Hi, my name is Noham Coulon, I'm a student in game programming.<br>
